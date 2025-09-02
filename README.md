@@ -8,7 +8,7 @@ Models compared:
 - Poisson Regression
 - Classical Zero-Inflated Poisson (ZIP)
 - **Poisson Neural Network**
-- **ZIP Neural Network (Ours)**
+- **ZIP Neural Network**
 
 ---
 
@@ -19,7 +19,7 @@ Models compared:
 | Poisson Regression        | 0.820 | 1.090 |
 | Classical ZIP             | 0.840 | 1.110 |
 | Poisson Neural Network    | 0.838 | 1.108 |
-| **ZIP Neural Network (Ours)** | **0.760** | **1.059** |
+| **ZIP Neural Network** | **0.760** | **1.059** |
 
 > ✅ Our proposed **ZIP Neural Network** achieves the lowest error rates across both MAE and RMSE, outperforming all baseline models.
 
